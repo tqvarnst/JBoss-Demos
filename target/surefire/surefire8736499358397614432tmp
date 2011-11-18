@@ -1,0 +1,5 @@
+#surefire
+#Thu Nov 17 22:31:29 CET 2011
+user.dir=/home/tqvarnst/git/blog
+localRepository=/home/tqvarnst/.m2/repository
+basedir=/home/tqvarnst/git/blog
